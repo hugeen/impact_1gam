@@ -5,4 +5,4 @@ Impact Platformer
 
 * [Demo](http://hugeen.github.com/impact_1gam/demo.html)
 
-* [Twitter](http://twitter.com/Hugeen/
+* [Twitter](http://twitter.com/Hugeen/)
